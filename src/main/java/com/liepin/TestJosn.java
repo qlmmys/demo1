@@ -12,7 +12,7 @@ public class TestJosn {
      * success : true
      * code : 1
      */
-
+    public static String TEST = "aaa";
     private boolean success;
     private int code;
 
