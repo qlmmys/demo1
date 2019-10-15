@@ -10,6 +10,6 @@ public class Test0 {
 
     public static void main(String[] args) {
         System.out.println("init");
-        System.out.println("我是一个bug");
+        System.out.println("fixed bug");
     }
 }
